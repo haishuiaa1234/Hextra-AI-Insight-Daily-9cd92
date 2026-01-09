@@ -4,25 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### He Xi 2077 / justlovemaki
+#### 何夕2077 / justlovemaki ✨
 
-> A decade of code, cool fingertips;
-> Burdens in my heart, long unexpressed.
-> Then, AI's thunder roars to life,
-> I vow to fight my battle in the sky.
+> A decade of code has chilled my fingertips, but unvented ambition still burns within. Suddenly, the winds of AI roar, a storm brewing! I'm all in to challenge the heavens and seize my moment.
 
-#### My Code Philosophy
+#### My Code Philosophy 💡
 
-> Technology serves the people.
+> Tech for the people, always! That's my jam.
 
-#### Key Projects
+#### My Masterpieces 🏆
 
-*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This is an AI image generation script, powered by Cloudflare Workers.
-*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This content aggregation and generation platform, driven by Cloudflare Workers, daily curates the latest AI trends for you, including industry news, popular open-source projects, cutting-edge academic papers, and tech influencer social media commentary.
-*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   An AI image generation script, all powered by Cloudflare Workers. Pretty slick, right?
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This content aggregation and generation platform, fueled by Cloudflare Workers, dishes out daily AI goodness! It curates industry news, trending open-source projects, cutting-edge academic papers, and the latest buzz from tech influencers' social feeds.
+*   Wanna dive deeper into my work? Check out my [GitHub](https://github.com/justlovemaki) for more project deets.
 
-#### Current Explorations
+#### My Current Adventures 🚀
 
-I'm super interested in LLM applications and website SEO, and I'm actively diving into learning and practice.
+> Right now, I'm super hooked on LLM applications and website SEO. I'm deep-diving into learning and getting my hands dirty with practical applications!
